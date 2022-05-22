@@ -1,16 +1,14 @@
 # epytodo
 
-A new Flutter project.
+The bonus frontend for EpyTodo made in Flutter !
 
-## Getting Started
+![alt text](screenshot.png)
 
-This project is a starting point for a Flutter application.
+## Install Flutter if you haven't already:
 
-A few resources to get you started if this is your first Flutter project:
+`sudo snap install flutter --classic`
+`flutter doctor`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Run the app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+`flutter run`
