@@ -4,10 +4,9 @@ The bonus frontend for EpyTodo made in Flutter !
 
 ![alt text](screenshot.png)
 
-## Install Flutter if you haven't already:
+## Installation
 
-`sudo snap install flutter --classic`
-`flutter doctor`
+install [flutter](https://docs.flutter.dev/get-started/install?gclsrc=ds&gclsrc=ds).
 
 ## Run the app
 
